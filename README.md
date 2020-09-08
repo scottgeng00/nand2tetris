@@ -12,3 +12,5 @@ projects:
   /04/             Assembly code for the hack computer
   
   /05/             CPU architecture and final computer
+  
+  /06/             Python assembler for the hack computer
